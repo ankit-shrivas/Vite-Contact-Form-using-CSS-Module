@@ -1,0 +1,15 @@
+.btn_primary {
+  padding: 18px 10px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 15px;
+}
+
+.outLine_btn {
+  padding: 18px 23px;
+  background-color: hsl(92, 43%, 82%);
+  color: black;
+  border-radius: 15px;
+  width: 100%;
+  cursor: pointer;
+}

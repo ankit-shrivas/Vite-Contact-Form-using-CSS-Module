@@ -1,0 +1,33 @@
+.contact_css {
+  display: flex;
+  column-gap: 10px;
+}
+
+.form_control {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+  padding: 20px 0px;
+}
+
+.form_control input {
+  height: 40px;
+  padding: 0px 8px;
+}
+
+.form_control label {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  background-color: white;
+  padding: 0px 10px;
+}
+
+.form_handle {
+  display: flex;
+  flex-direction: column;
+
+
+
+}

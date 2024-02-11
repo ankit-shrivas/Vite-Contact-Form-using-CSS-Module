@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.col-md-6 {
+  flex: 1;
+}
+
+.container-fluid {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.bg-light {
+  background-color: azure;
+}
+
+.mt-4 {
+  margin: 40px 0px 0px 0px;
+}
+
+.p-2 {
+  padding: 20px 0px;
+
+}
